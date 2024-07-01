@@ -12,7 +12,8 @@ body{
     font-weight: 700;
     font-style: normal;
     color: #6E728E;
-    background: url(./images/bg-top.svg) no-repeat calc(50% + 12rem) 0;
+    background: url(./images/bg-top.svg) no-repeat calc(50% + 12rem) 0,
+                #f1f1fc;
 }
 
 .list{
@@ -174,7 +175,8 @@ body{
 
     body{   
         background: url(./images/bg-top.svg) no-repeat  top right,
-                    url(./images/bg-bottom.svg) no-repeat bottom left;
+                    url(./images/bg-bottom.svg) no-repeat bottom left,
+                    #f1f1fc;
     }
 
     .container{  
